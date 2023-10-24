@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Norawich Dechsiri.
 I'm a Front-End Devloper.
 
-I've experience in HTML, SCSS and Jquery about 5 years, BUT I'm Junior for ReactJS and I keep going to practice.
+I've experience in HTML, SCSS and Jquery about 5 years, BUT I'm Junior for ReactJS and I keep going to learn.
 
 ## My learning stack
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=tailwind,sass)](https://skillicons.dev)  
